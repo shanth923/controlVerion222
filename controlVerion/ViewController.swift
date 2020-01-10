@@ -11,6 +11,8 @@ import UIKit
 class ViewController: UIViewController {
 
     var array = [1,23,2,2,2,2]
+    
+    var array12 = [1,3,5,6,8,9,0,4,3,3,4,5]
     override func viewDidLoad() {
         super.viewDidLoad()
         
