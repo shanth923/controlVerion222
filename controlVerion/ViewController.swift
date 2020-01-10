@@ -21,6 +21,10 @@ class ViewController: UIViewController {
         print("same to you")
         print(array)
         
+        
+        print("hai nagaraju,how are you")
+        
+        
         // Do any additional setup after loading the view.
     }
 
