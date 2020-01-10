@@ -10,6 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    var array = [1,23,2,2,2,2]
     override func viewDidLoad() {
         super.viewDidLoad()
         
@@ -18,7 +19,7 @@ class ViewController: UIViewController {
         print("good evening")
         
         print("same to you")
-        
+        print(array)
         
         // Do any additional setup after loading the view.
     }
